@@ -1,0 +1,2 @@
+# LedgerGuard-Dynamic-Multi-Tenant-Zero-Knowledge-Billing-Engine
+LedgerGuard is a secure, scalable multi-tenant billing engine built with React, TypeScript, Node.js, Express.js, MongoDB, and Redis. It enables independent billing for multiple organizations with secure data isolation, automated invoicing, subscription management, payment tracking, role-based access, and privacy-focused zero-knowledge security.
